@@ -16,7 +16,7 @@ Make sure you have installed all of the following prerequisites on your developm
 The recommended way to get ChatGPT clone is to use git to directly clone the repository:
 
 ```bash
-$ git clone https://github.com/nisabmohd/ChatGPT.git
+$ git clone https://github.com/followDev/react-chatgpt.git
 ```
 
 ## Environment variables React setup
